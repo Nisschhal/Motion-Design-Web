@@ -1,9 +1,8 @@
 # Video Handling Exercise
 
-This exercise deals with video-related issues:
-
 ## 1. Online Videos: YouTube/Other Sites
 
+<<<<<<< HEAD
 You can directly embed online videos using an HTML iframe. Copy the embed code from the video sharing platform.
 
 ### Example
@@ -36,3 +35,16 @@ converted from mp4 ### Example
 ></video>
 >```
 ````
+
+======= ### Example
+'''
+<video
+          src="../assets/videos/video-1@c.mp4"
+          width="484"
+          loop
+          muted
+          controls
+          poster="../assets/images/video-poster.jpg"
+        ></video>
+
+> > > > > > > 41f2d851fa5d3e13863e57d23599c2247c9d0274
