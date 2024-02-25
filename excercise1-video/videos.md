@@ -2,6 +2,7 @@
 
     1. Online Videos: Youtube/other site
         --> directly copy from the share embedded to html
+        
         ### Example
             '''
             <iframe
@@ -13,7 +14,7 @@
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen
         ></iframe>
-        '''
+
 
     2. Custom Videos: mp4/webm
         - webm isn't supported by old browser however, it is very small in size compared to mp4 so, fast loading.
@@ -29,4 +30,3 @@
           controls
           poster="../assets/images/video-poster.jpg"
         ></video>
-        '''
