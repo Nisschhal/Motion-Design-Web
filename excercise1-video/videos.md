@@ -23,18 +23,6 @@ You can directly embed online videos using an HTML iframe. Copy the embed code f
 it is very small in size compared to mp4 so, fast loading. --> Webm can be
 converted from mp4 ### Example
 
-```html
-<video
-  src="../assets/videos/video-1@c.mp4"
-  width="484"
-  loop
-  muted
-  controls
-  poster="../assets/images/video-poster.jpg"
-></video>
->
-```
-
 ### Example
 
 ```html
