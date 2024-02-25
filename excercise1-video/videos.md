@@ -2,7 +2,7 @@
 
 ## 1. Online Videos: YouTube/Other Sites
 
-You can directly embed online videos using an HTML iframe. Copy the embed code from the video sharing platform.
+----> You can directly embed online videos using an HTML iframe. Copy the embed code from the video sharing platform.
 
 ### Example
 
@@ -20,7 +20,7 @@ You can directly embed online videos using an HTML iframe. Copy the embed code f
 
 ## 2. Custom Videos: mp4/webm - webm isn't supported by old browser however,
 
-it is very small in size compared to mp4 so, fast loading. --> Webm can be
+---> It is very small in size compared to mp4 so, fast loading. --> Webm can be
 converted from mp4 ### Example
 
 ### Example
