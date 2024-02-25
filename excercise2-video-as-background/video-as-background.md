@@ -6,10 +6,10 @@
 
 ## Why Videos
 
-- Videos are superheros of content delivery.
-- Videos can be super fast to attach with embed codes.
-- Custom video can be used using <video> tag with multiple <source>
-  - controls such as autoplay, muted, loop go to <video autoplay loop muted>
-  - src="../videoname" and type="video/webm" goes to <source>
+- Videos are the superheroes of content delivery.
+- Videos can be quickly embedded using shareable codes.
+- Custom videos can be implemented using the `<video>` tag with multiple `<source>` elements.
+  - Use `controls` for features such as autoplay, muted, and loop; for example, `<video autoplay loop muted>`.
+  - Specify the video source with `src="../videoname"` and `type="video/webm"` for the `<source>` element.
 
 ## --> Best way to customized the video play is ###VideoJS
