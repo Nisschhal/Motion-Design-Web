@@ -55,13 +55,14 @@
       }
 
       #feature {
-        background-color: #151618;
+        background-color: rgba(21, 22, 24, 0.8);
         padding: 8rem 6rem;
         display: flex;
         justify-content: center;
         align-items: center;
         gap: 8rem;
         height: 100vh;
+        position: relative;
       }
 
       #feature header {
@@ -79,6 +80,13 @@
       }
 
       /* Air */
+      /* #media {
+        position: absolute;
+        top: 0;
+        left: 0;
+        object-fit: cover;
+        z-index: -1;
+      } */
     </style>
   </head>
   <body>
@@ -111,6 +119,23 @@
 
       <div id="media">
         <!-- Air -->
+        <!-- <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/vqXLGX0szIQ?si=7HKWKEUDRftkq5rA"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe> -->
+        <video
+          src="../assets/videos/video-1@c.mp4"
+          width="484"
+          loop
+          muted
+          controls
+          poster="../assets/images/video-poster.jpg"
+        ></video>
       </div>
     </section>
   </body>
