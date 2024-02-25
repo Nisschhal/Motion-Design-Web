@@ -2,7 +2,6 @@
 
 ## 1. Online Videos: YouTube/Other Sites
 
-<<<<<<< HEAD
 You can directly embed online videos using an HTML iframe. Copy the embed code from the video sharing platform.
 
 ### Example
@@ -24,7 +23,7 @@ You can directly embed online videos using an HTML iframe. Copy the embed code f
 it is very small in size compared to mp4 so, fast loading. --> Webm can be
 converted from mp4 ### Example
 
-````html
+```html
 <video
   src="../assets/videos/video-1@c.mp4"
   width="484"
@@ -33,18 +32,18 @@ converted from mp4 ### Example
   controls
   poster="../assets/images/video-poster.jpg"
 ></video>
->```
-````
+>
+```
 
-======= ### Example
-'''
+### Example
+
+```html
 <video
-          src="../assets/videos/video-1@c.mp4"
-          width="484"
-          loop
-          muted
-          controls
-          poster="../assets/images/video-poster.jpg"
-        ></video>
-
-> > > > > > > 41f2d851fa5d3e13863e57d23599c2247c9d0274
+  src="../assets/videos/video-1@c.mp4"
+  width="484"
+  loop
+  muted
+  controls
+  poster="../assets/images/video-poster.jpg"
+></video>
+```
